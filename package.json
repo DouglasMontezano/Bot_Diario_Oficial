@@ -1,0 +1,8 @@
+{
+  "name": "Bot_DO",
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "puppeteer": "^21.3.1"
+  }
+}
